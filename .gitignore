@@ -1,0 +1,41 @@
+# Android Studio ve yerel ayarlar
+*.iml
+.idea/
+local.properties
+.DS_Store
+
+# Gradle / Android derleme çıktıları
+.gradle/
+.kotlin/
+**/build/
+.externalNativeBuild/
+.cxx/
+captures/
+releases/
+*.apk
+*.aab
+*.apks
+*.idsig
+
+# İmzalama anahtarları ve şifreleri
+.signing/
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore-password.txt
+keystore.properties
+signing.properties
+key.properties
+.env
+.env.*
+!.env.example
+
+# Yerel cihaz verileri ve hata kayıtları
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.log
+*.hprof

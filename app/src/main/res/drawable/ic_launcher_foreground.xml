@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Keep the wallet and check inside the adaptive icon's central safe area. -->
+    <path
+        android:fillColor="#91E7C4"
+        android:pathData="M35,40L62,32.5C63.8,32 65.2,32.8 65.7,34.5L68,42Z" />
+    <path
+        android:fillColor="#063B46"
+        android:fillAlpha="0.16"
+        android:pathData="M35,42H73C75.8,42 78,44.2 78,47V69C78,71.8 75.8,74 73,74H35C32.2,74 30,71.8 30,69V47C30,44.2 32.2,42 35,42Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,39H73C75.8,39 78,41.2 78,44V66C78,68.8 75.8,71 73,71H35C32.2,71 30,68.8 30,66V44C30,41.2 32.2,39 35,39Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D9EEE8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M36,45H72" />
+    <path
+        android:fillColor="#D9EEE8"
+        android:pathData="M68,48H79V59H68C65,59 62.5,56.5 62.5,53.5C62.5,50.5 65,48 68,48Z" />
+    <path
+        android:fillColor="#176763"
+        android:pathData="M69,51.5A2,2 0,1 0,69 55.5A2,2 0,1 0,69 51.5Z" />
+    <path
+        android:fillColor="#0B525D"
+        android:pathData="M68,54.5A12.5,12.5 0,1 0,68 79.5A12.5,12.5 0,1 0,68 54.5Z" />
+    <path
+        android:fillColor="#91E7C4"
+        android:pathData="M68,56A11,11 0,1 0,68 78A11,11 0,1 0,68 56Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#063B46"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M62.5,67L66.2,70.7L73.5,63.4" />
+</vector>
