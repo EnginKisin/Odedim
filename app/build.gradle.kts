@@ -39,8 +39,7 @@ android {
     buildTypes {
         release {
             signingConfig = signingConfigs.getByName("release")
-            // Keep release behavior aligned with the working unoptimized build
-            // while the device-specific startup crash is being investigated.
+            // Disabled to avoid startup IllegalAccessError with package-scoped R8 optimization.
             optimization {
                 enable = false
             }

@@ -44,7 +44,3 @@ Debug sürümü için release imzalama anahtarı gerekmez.
 Hatırlatmalar için uygulamanın Ayarlar ekranındaki bildirim ve zamanlama izinlerini tamamlayın.
 
 Unit testler: `./gradlew :app:testDebugUnitTest`
-
-İmzalı APK oluşturma ve güncelleme bilgileri: [RELEASING.md](RELEASING.md).
-
-Android Studio'dan GitHub'a ilk paylaşım: [GitHub'a yükleme rehberi](docs/GITHUB_UPLOAD.md).
